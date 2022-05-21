@@ -1,6 +1,6 @@
 {
     "name": "HydroxideV2",
-    "entry": "index.lua",
+    "entry": "init.lua",
     "options": {
         "minifyOutput": false,
         "cacheStringLiterals": true,
