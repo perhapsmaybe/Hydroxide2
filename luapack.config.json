@@ -1,0 +1,10 @@
+{
+    "name": "HydroxideV2",
+    "entry": "index.lua",
+    "options": {
+        "minifyOutput": false,
+        "cacheStringLiterals": true,
+        "optimizeInstructions": false,
+        "enableRelativePaths": true
+    }
+}
